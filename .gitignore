@@ -125,4 +125,4 @@ dmypy.json
 
 # Apple files
 .DS_Store
-.vscode
+.vscode/
